@@ -6,7 +6,7 @@
 
 
 cmake_minimum_required(VERSION 3.2)
-project(parse_logs)
+project( template_project)
 include( cmake/conan.cmake)
 
 SET(Boost_USE_STATIC_LIBS ON)
